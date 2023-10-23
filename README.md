@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Building the Future: Code Your Dreams</h2></summary>
   </ul>
 </div>
 
@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **React .**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So,I'm learning **React**
 
 - 💬 Ask me about **JavaScript react, nodejs**
 
@@ -83,7 +83,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,github,html,js,nodejspy,react,vscode&perline=14" />
   </a>
 </p>
 
@@ -109,7 +109,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Willianwt2000&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
   
 </div>
 

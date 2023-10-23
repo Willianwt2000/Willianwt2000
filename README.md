@@ -83,7 +83,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,github,html,js,nodejspy,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,github,html,js,nodej,spy,react,vscode&perline=14" />
   </a>
 </p>
 
@@ -109,7 +109,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Willianwt2000&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
